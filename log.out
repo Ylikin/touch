@@ -1,0 +1,60 @@
+2019-09-23 15:06:54,781 INFO :86 - Mock for Message, hashCode: 17670119 from anonymous
+2019-09-23 15:06:54,797 DEBUG:75 - anonymous anonymous close connection
+2019-09-23 15:21:02,124 INFO :86 - Mock for Message, hashCode: 12674019 from anonymous
+2019-09-23 15:21:02,232 ERROR:113 - java.lang.NullPointerException while getting messages or adding it in map
+2019-09-23 15:32:29,912 DEBUG:36 - tom agent connected
+2019-09-23 15:32:29,971 INFO :86 - Mock for Message, hashCode: 27479538 from anonymous
+2019-09-23 15:32:29,971 ERROR:113 - java.lang.NullPointerException while getting messages or adding it in map
+2019-09-23 15:32:29,986 DEBUG:36 - tom client connected
+2019-09-23 15:32:30,023 INFO :86 - Mock for Message, hashCode: 20793996 from anonymous
+2019-09-23 15:32:30,023 DEBUG:75 - anonymous anonymous close connection
+2019-09-23 15:32:30,026 DEBUG:36 - tom agent connected
+2019-09-23 15:37:56,376 DEBUG:36 - tom agent connected
+2019-09-23 15:37:56,471 DEBUG:36 - tom client connected
+2019-09-23 15:37:56,485 INFO :86 - Mock for Message, hashCode: 6444029 from anonymous
+2019-09-23 15:37:56,486 DEBUG:75 - anonymous anonymous close connection
+2019-09-23 15:37:56,489 DEBUG:36 - tom agent connected
+2019-09-23 15:37:56,826 DEBUG:36 - tom agent connected
+2019-09-23 15:37:56,895 DEBUG:36 - tom client connected
+2019-09-23 15:37:56,909 INFO :86 - Mock for Message, hashCode: 30398763 from anonymous
+2019-09-23 15:37:56,910 DEBUG:75 - anonymous anonymous close connection
+2019-09-23 15:37:56,913 DEBUG:36 - tom agent connected
+2019-09-23 15:38:03,770 DEBUG:36 - tom agent connected
+2019-09-23 15:38:04,986 DEBUG:36 - tom client connected
+2019-09-23 15:38:04,999 INFO :86 - Mock for Message, hashCode: 6444029 from anonymous
+2019-09-23 15:38:05,000 DEBUG:75 - anonymous anonymous close connection
+2019-09-23 15:38:05,003 DEBUG:36 - tom agent connected
+2019-09-23 15:39:53,748 DEBUG:36 - tom agent connected
+2019-09-23 15:39:53,814 DEBUG:36 - tom client connected
+2019-09-23 15:39:53,827 INFO :86 - Mock for Message, hashCode: 6444029 from anonymous
+2019-09-23 15:39:53,827 DEBUG:75 - anonymous anonymous close connection
+2019-09-23 15:39:53,831 DEBUG:36 - tom agent connected
+2019-09-23 15:40:51,369 DEBUG:36 - tom agent connected
+2019-09-23 15:40:51,438 DEBUG:36 - tom client connected
+2019-09-23 15:40:51,453 INFO :86 - Mock for Message, hashCode: 6444029 from anonymous
+2019-09-23 15:40:51,453 DEBUG:75 - anonymous anonymous close connection
+2019-09-23 15:40:51,457 DEBUG:36 - tom agent connected
+2019-09-23 15:42:00,964 DEBUG:36 - tom agent connected
+2019-09-23 15:43:46,405 INFO :86 - Mock for Message, hashCode: 5956667 from anonymous
+2019-09-23 15:43:46,411 ERROR:113 - java.lang.NullPointerException while getting messages or adding it in map
+2019-09-23 15:44:16,098 INFO :86 - Mock for Message, hashCode: 24567234 from anonymous
+2019-09-23 15:44:16,103 ERROR:113 - java.lang.NullPointerException while getting messages or adding it in map
+2019-09-23 15:48:10,945 DEBUG:36 - tom agent connected
+2019-09-23 15:48:11,312 INFO :86 - Mock for Message, hashCode: 8864203 from anonymous
+2019-09-23 15:48:11,312 DEBUG:75 - anonymous anonymous close connection
+2019-09-23 15:48:11,320 DEBUG:36 - tom agent connected
+2019-09-23 15:50:19,937 DEBUG:36 - tom agent connected
+2019-09-23 15:50:19,956 DEBUG:36 - tom client connected
+2019-09-23 15:50:19,969 INFO :86 - Mock for Message, hashCode: 24805171 from anonymous
+2019-09-23 15:50:19,970 DEBUG:75 - anonymous anonymous close connection
+2019-09-23 15:50:19,973 DEBUG:36 - tom agent connected
+2019-09-23 15:51:39,176 DEBUG:36 - tom agent connected
+2019-09-23 15:51:39,197 DEBUG:36 - tom client connected
+2019-09-23 15:51:39,211 INFO :86 - Mock for Message, hashCode: 24805171 from anonymous
+2019-09-23 15:51:39,212 DEBUG:75 - anonymous anonymous close connection
+2019-09-23 15:51:39,215 DEBUG:36 - tom agent connected
+2019-09-23 15:51:52,861 DEBUG:36 - tom agent connected
+2019-09-23 15:51:52,880 DEBUG:36 - tom client connected
+2019-09-23 15:51:52,893 INFO :86 - Mock for Message, hashCode: 24805171 from anonymous
+2019-09-23 15:51:52,894 DEBUG:75 - anonymous anonymous close connection
+2019-09-23 15:51:52,897 DEBUG:36 - tom agent connected
