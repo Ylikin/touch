@@ -61,7 +61,7 @@ public class ChatEndpoint {
                     List<Message> listOfMess = mapOfMsg.get(sessionClient);
                     for (int i = 0; i < listOfMess.size(); i++) {
                         session.getBasicRemote().sendObject(listOfMess.get(i));
-
+                        mapOfMsg.remove(sessionClient);
                     }
                 }
             } catch (IOException | EncodeException e) {
@@ -117,6 +117,7 @@ public class ChatEndpoint {
         log.info(msg + " from " + usern);
         try {
             if (leave) {
+                leave = false;
                 if (role.equals("agent")) {
                     agentProcess(session);
                 } else if (role.equals("client")) {

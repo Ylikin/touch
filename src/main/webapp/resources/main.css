@@ -1,0 +1,60 @@
+.chatbox {
+    display: none;
+}
+
+.messages {
+    background-color: #369;
+    width: 500px;
+    padding: 20px;
+}
+
+.start .username {
+    width: 420px;
+    padding: 20px;
+}
+
+.messages .msg {
+    background-color: #fff;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.messages .msg .from {
+    background-color: #396;
+    line-height: 30px;
+    text-align: center;
+    color: white;
+}
+
+.messages .msg .text {
+    padding: 10px;
+}
+
+#start {
+    position: relative;
+    z-index: 0;
+}
+
+textarea.msg {
+    width: 540px;
+    padding: 10px;
+    resize: none;
+    border: none;
+    box-shadow: 2px 2px 5px 0 inset;
+}
+
+input:invalid {
+    /*border: 2px dashed red;*/
+    border: 30px solid red;
+    z-index: 9999;
+
+    position: absolute;
+
+
+}
+
+input:valid .start #start {
+    border: 2px solid black;
+    display: block;
+}

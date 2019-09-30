@@ -1,0 +1,7 @@
+#ideq file`s, packages, compiled file`s
+*.jar
+*.war
+*.class
+.idea/*
+*.iml
+target*
